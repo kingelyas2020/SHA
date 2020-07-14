@@ -135,12 +135,12 @@ class Instabrute():
 			
 			
 os.system("clear")
-os.system("figlet INSTA H4CK3R")
+os.system("figlet SHAH ELYAS HACKER 420")
 print
 print "Author    : HajiAli-HaZara"
-print "Facebook   : https://www.facebook.com/profile.php?id=100052706317090"
-print "github    : https://github.com/hajiali-bot"
-print "Telegram : https://t.me/joinchat/AAAAAEna_ZHQHhskOjc5fg"
+print "Facebook   : https://SERH FARSI SHAH ELYAS🛡
+print "github    : https://github.com/AFGHACKER2020"
+print "Telegram : https://"t.me/Kill3rb0y00l
 print
 
 
